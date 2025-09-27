@@ -1,77 +1,41 @@
 # excel-dashboard-coffee-shop-sale
 
-📊 Coffee Shop Sales Dashboard
+Coffee Shop Sales Dashboard
 
-🔹 Project Overview
+📊 Project Overview  
+This project is an Excel dashboard created to analyze coffee shop sales data.  
+It shows total sales, customer footfall, product performance, and order trends.  
 
-This Excel dashboard is based on Coffee Shop Sales Data. It showcases sales, footfall, product performance, time-based trends, and other insights using various charts and visualizations.
+🎯 Objective  
+The main goal of this project is to understand coffee shop sales patterns.  
+By using Excel, we can find out:  
+- Which products sell the most  
+- Which locations perform better  
+- Which days and times have higher sales  
+- How customer orders vary by size and category  
 
+✨ Key Insights  
+- Total Sales: $698,812.33  
+- Total Footfall: 149,116  
+- Top Selling Product: Barista Espresso  
+- Highest Sales Location: Hell’s Kitchen  
+- Most Orders: Friday  
 
----
+📂 Files Included  
+- Coffee_Shop_Sales.xlsx → Excel dashboard file  
+- Coffee_Shop_Sales_Dashboard.png → Project screenshot  
 
-🔹 Key Insights
+🔧 Tools Used  
+- Microsoft Excel (Pivot Tables, Charts, Slicers, Dashboard)  
 
-Total Sales: $698,812.33
+📌 Conclusion  
+This dashboard helps to quickly understand customer behavior and sales performance.  
+It can be useful for making better business decisions, such as improving product stock, planning offers on peak days, and focusing on best-selling items.  
 
-Total Footfall: 149,116
+🙌 How to Use  
+1. Download the Excel file.  
+2. Open in Microsoft Excel.  
+3. Use filters (Month, Day) to explore sales performance.  
 
-Average Sales per Person: 4.69
-
-Top Product: Barista Espresso ($91,406.20)
-
-Peak Hours: Highest orders between 8 AM – 10 AM
-
-Top Locations: Hell's Kitchen and Astoria
-
-Weekday Trend: Friday has the highest number of orders
-
-
-
----
-
-🔹 Features of the Dashboard
-
-📈 Time-based sales & order analysis
-
-🥧 Product category & size distribution
-
-📍 Location-wise performance comparison
-
-📅 Weekday trends analysis
-
-🔎 Interactive slicers (Month & Day filter)
-
-
-
----
-
-🔹 Tools Used
-
-Microsoft Excel (Pivot Tables, Charts, Slicers, Formatting)
-
-Data Cleaning & Preparation in Excel
-
-
-
----
-
-🔹 How to Use
-
-1. Download the Excel file.
-
-
-2. Use the filters (Month, Day) for interactive analysis.
-
-
-3. Explore charts and graphs to understand sales performance.
-
-
-
-
----
-
-🔹 Project Objective
-
-To provide insights about sales performance and customer behavior of the coffee shop.
-
-To build a data-driven visualization that supports decision-making.
+👤 Author  
+Created by Roshan Rane
